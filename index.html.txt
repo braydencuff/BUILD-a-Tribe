@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BUILD a Tribe | Home</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;700&amp;family=Nunito:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header><div class="banner"><img src="images/logo.jpg" alt="LEGO minifigure in a purple beanie and green top, standing beside a blue toy camera, the logo for BUILD a Tribe"><h1>BUILD a Tribe</h1></div></header>
+<nav aria-label="Main"><ul><li><a href="index.html" aria-current="page">Home</a></li><li><a href="about.html">About</a></li><li><a href="sessions.html">Sessions</a></li><li><a href="contact.html">Contact</a></li></ul></nav>
+<main>
+<section><h2>Welcome, builders!</h2><div class="split"><div><p>BUILD a Tribe is a friendly LEGO group for neurodivergent kids and their whānau. Whether your child is autistic, has ADHD, dyslexia, dyspraxia or simply learns in their own way, there is a place for them at our table.</p><p><a class="button" href="sessions.html">See our sessions</a></p></div><img src="images/lego_bricks.svg" alt="A colourful stack of red, blue, yellow and green toy building bricks"></div></section>
+<section><h2>What we do</h2><div class="cards"><div class="card"><h3>Build together</h3><p>Free builds, team challenges and calm solo building, all at your own pace.</p></div><div class="card"><h3>Feel at ease</h3><p>Quiet spaces, low lighting and no pressure to talk or join in.</p></div><div class="card"><h3>Make friends</h3><p>Meet other kids who share your interests in a relaxed setting.</p></div></div></section>
+</main>
+<footer><p>BUILD a Tribe. A friendly LEGO group for neurodivergent kids.</p></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

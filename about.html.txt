@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About Us | BUILD a Tribe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;700&amp;family=Nunito:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header><div class="banner"><img src="images/logo.jpg" alt="LEGO minifigure in a purple beanie and green top, standing beside a blue toy camera, the logo for BUILD a Tribe"><h1>BUILD a Tribe</h1></div></header>
+<nav aria-label="Main"><ul><li><a href="index.html">Home</a></li><li><a href="about.html" aria-current="page">About</a></li><li><a href="sessions.html">Sessions</a></li><li><a href="contact.html">Contact</a></li></ul></nav>
+<main>
+<section><h2>Who we are</h2><div class="split"><img src="images/wairarapa_hills.svg" alt="Illustration of green Wairarapa hills with a sunny sky and a small tower of toy bricks"><div><p>We are a group of parents, caregivers and volunteers living in the Wairarapa. We started BUILD a Tribe because building with LEGO bricks helps many neurodivergent children feel calm, focused and proud.</p></div></div></section>
+<section><h2>Our approach</h2><p>Every child is welcome exactly as they are. We never force eye contact, talking or group play. Children can wear headphones, take breaks and build alone or with friends.</p></section>
+<section><h2>A note about LEGO</h2><p>LEGO® is a trademark of the LEGO Group, which does not sponsor or endorse this website. The logo shows a LEGO minifigure. All other illustrations on this site were created by us.</p></section>
+</main>
+<footer><p>BUILD a Tribe. A friendly LEGO group for neurodivergent kids.</p></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

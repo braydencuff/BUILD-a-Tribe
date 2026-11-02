@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sessions | BUILD a Tribe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;700&amp;family=Nunito:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header><div class="banner"><img src="images/logo.jpg" alt="LEGO minifigure in a purple beanie and green top, standing beside a blue toy camera, the logo for BUILD a Tribe"><h1>BUILD a Tribe</h1></div></header>
+<nav aria-label="Main"><ul><li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="sessions.html" aria-current="page">Sessions</a></li><li><a href="contact.html">Contact</a></li></ul></nav>
+<main>
+<section><h2>What happens at a session</h2><p>Each session has three parts, and children can join in with as much or as little as they like.</p><ul><li>Arrive and settle in with a quiet free build.</li><li>Try a gentle themed challenge, such as building a bridge or a bird.</li><li>Share creations, if you want to, and tidy up together.</li></ul></section>
+<section><h2>Example timetable</h2><div class="cards"><div class="card"><h3>When</h3><p>Saturday mornings, 10am to 12pm.</p></div><div class="card"><h3>Where</h3><p>A community hall in the Wairarapa, with a quiet room.</p></div><div class="card"><h3>Who</h3><p>Children aged 5 to 12 with a parent or caregiver.</p></div></div></section>
+<section><h2>Ready to join?</h2><p><a class="button" href="contact.html">Get in touch</a></p></section>
+</main>
+<footer><p>BUILD a Tribe. A friendly LEGO group for neurodivergent kids.</p></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
